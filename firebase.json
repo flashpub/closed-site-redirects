@@ -1,0 +1,37 @@
+{
+  "hosting": {
+    "target": "outbreak",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {"source": "/pub/result-of-covid-19-effective-reproduction-number_e5727371-2c5d-4a68-89c4-a37a4c85d906","destination": "https://arweave.net/KTKzszjfLw5mqKdpEbH5lUWwdH5nC1JtRNN9crplfkI","type":301},
+      {"source": "/pub/outbreak-modeling-method-of-outbreak-model_6ad9624d-cbe7-4ff4-a091-54610d2c4929","destination": "https://arweave.net/o9w_f83PHs4lXX20i4AkdI9uvMpGH5_Fhe-xEUiTS-U","type":301},
+      {"source": "/pub/method-of-covid-19-mortality-forecasting_81d480c5-ac10-421d-9ccf-8547c7bbcba3","destination": "https://arweave.net/14cQknQSnxJnoimAFuV6ypTtr3WQTh0C7U9eQ8AxBqE","type":301},
+      {"source": "/pub/standard-social-distancing-score_475b1083-015c-4cc4-a16d-5ba57d1e220c","destination": "https://arweave.net/99QYrPPwSQL9-BQQxRLeZUpF9R_diPZ5omTa9Iyxz8M","type":301},
+      {"source": "/pub/result-of-housing-price-forecasting-during-covid-19-pandemic_6ede5efd-2d52-42d7-a2f3-6a68daaa6900","destination": "https://arweave.net/V3JZY3lpupusipLq-JJ96wcE8FUSFrtJ0ehqD5uXPWM","type":301},
+      {"source": "/pub/covid-19-forecast-for-chemung-county,-ny,-april-2020_0594fc26-006c-44fa-b89d-5814ff1d1dcc ","destination": "https://arweave.net/y5WVMjfwI5Fyz2XbX-gH9vid5kDHZ_CD-pK7RymSMgI","type":301},
+      {"source": "/pub/covid-19-outbreak-forecast-for-san-diego-county,-april-2020_02ecb48b-3934-4ea7-ad26-107a10922498","destination": "https://arweave.net/Y7s-0Y2EzxInlTlqUyUdGmrhoDWVu3gzNiG6ygESfn0","type":301},
+      {"source": "/pub/models-of-case-burden,-hospitalizations-and-icu-admissions-based-on-the-first-24-days-of-covid-19-data-from-san-diego-county_dc9cb501-8e21-4715-99a5-ec294d8e95ed","destination": "https://arweave.net/N0FsODUeD5YO_UvmOummwrqKYDLdrGITzkYIKIhPRnY","type":301},
+      {"source": "/pub/updated-covid-19-outbreak-forecast-for-san-diego-county,-april-2020_f812aaca-ef93-41f7-81aa-0220c1c2ebef","destination": "https://arweave.net/S_1Zkco1mtg9-hW9qf5yrbF0h5iGd5nq_hu8AyjIxVU","type":301},
+      {"source": "/pub/quickstart-for-sird-modeling-of-the-covid-19-outbreak_8205b620-fe85-43b2-bf14-a593b766cf07 ","destination": "https://arweave.net/ZkikYVI7IGRWhgOxgHRW1Wk3nWt3X5nLKmuMZ9JNfSg","type":301},
+      {"source": "/pub/review-a-published-ifr-estimate-of-covid-19-infection-fatality-rate_1b71eb7e-dff6-40cd-ae1e-acd95bbaaff4","destination": "https://arweave.net/BZ-SInvHEUcnjYmO1rC3nrQhKoUQSezR7VVJWxQ9qLM","type":301},
+      {"source": "/pub/covid-forecast-for-chicago,-il,-may-2020_24d3de17-f810-4434-a281-31952b81e8bb","destination": "https://arweave.net/MyTPMiMcbk9JVDwU9x6bmX0CIhQlZhbk6GOuRRHDkeo","type":301},
+      {"source": "/pub/covid-19-forecast-for-san-diego-county,-april-2020_3073f14b-9552-4064-b77d-9e2d2947e61e","destination": "https://arweave.net/mIWJpsL7fNqOeIuWLzTb9zvYTrmkDLGcIDTM0EZy9TA","type":301},
+      {"source": "/pub/covid-19-city-model-of-covid-19-spread_661b87a2-2cef-48f6-85ba-e5341d80a7d5","destination": "https://arweave.net/nbAbDOYGIbm-nrQU-92HR0OH_2FcbwrBzy5WI3-k3Ec","type":301},
+      {"source": "/pub/outbreak-modeling-method-of-prediction-aggregation_7ad8f40a-dbf2-4e9a-a93a-9e706831525c","destination": "https://arweave.net/hS8rQEClUZqKzh48W7lrNnMwhgEdXPkcekE7jPc7Onw","type":301},
+      {"source": "/pub/covid-19-forecast-for-atlanta,-ga,-april-2020_87057941-c3bf-4549-8f6d-06231aea186d","destination": "https://arweave.net/tx4imjpByNbq8A-6jejINMenDeJ66E9nlSQQZ32XGwo","type":301},
+      {"source": "/pub/result-of-sars-cov-2-vaccine_3b73377b-982d-494c-ab80-238abda729b0","destination": "https://arweave.net/a7ItNXjdkmKDqKr7obLhWwTnSvKt_iA3EHSiu7Wzlyo","type":301},
+      {"source": "/pub/result-of-sars-cov-2-vaccine_7cc8f53c-0c14-432b-9bb7-b186cc3618f3","destination": "https://arweave.net/cCwAXD3ElDw4Yzdhi0GYRh3lM8zUDHUE8Apfrl7l9MI","type":301},
+      {"source": "/pub/result-of-sars-cov-2-vaccine_af479eb7-3f2e-4fed-8c14-181566de6621","destination": "https://arweave.net/uQmv_ERj7tCF8by_2CrYIsmXROc3Rify4ccb6FY4ToU","type":301},
+      {"source": "/pub/result-of-clinical-treatments-and-interventions-to-manage-covid-19._fd9e0a91-6a73-492d-86e1-148a060300da","destination": "https://arweave.net/hD_Em9jB4FXgloaFONHPApEH7DbZQQG5kbu4aaySMjA","type":301},
+      {"source": "/pub/result-of-sars-cov-2-vaccine_c14a0933-5ee6-4b16-bf50-6b38d9f90a6c","destination": "https://arweave.net/21HC2AF5ywDgo_GfoOnCsoWDcBOgnW9WB7AnrUopPPA","type":301},
+      {"source": "/pub/result-of-sars-cov-2-vaccine_9c46adf0-04c3-41c1-9f3c-73bd091214fe","destination": "https://arweave.net/AKHZhIeJOhl2L7_TRvubsDLrAwg6swGWGknMx39rPk4","type":301},
+      {"source": "/pub/city-model-of-covid-19-spread_9da6f4a2-cd9c-40b9-a84b-13e3b0a322f9","destination": "https://arweave.net/mr44x6Tto-adIW08783g1eJdnf-95T6_GygbCpf8mqw","type":301},
+      {"source": "/pub/outbreak-modeling-method-of-prediction-aggregation_9b1b682c-105e-4110-80c5-44bfeb038525","destination": "https://arweave.net/Nl3lssuyGiCip-2198bv46XoNCZNU4iQwiUeGFY3kxs","type":301}
+    ]
+  }
+}
